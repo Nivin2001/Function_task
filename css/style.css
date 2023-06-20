@@ -1,0 +1,41 @@
+.header{
+    padding-left:60px ;
+
+}
+
+.content{
+    background-color: #E966A0;
+    height: 200px;
+    width: 100%;
+}
+#A , #B { 
+    color: white;
+    text-align: center;
+    padding: 40px 20px 0px 20px;
+    
+  }
+#A{
+    font-size: 30PX;
+    font-weight: bold; 
+}
+
+#B{
+    font-size: 20PX;
+    
+}
+.question{
+    padding: 10px; ;
+}
+.qo-1,.qo-2,.qo-3,.qo-4,.qo-5{
+    padding-left:60px ;
+    padding-top: 5px;
+
+}
+.qo_item{
+    font-size: 30px;
+    font-weight: bold;
+}
+.qo-2,.qo-4{
+    background-color: ghostwhite;
+    height: 200px;
+}
